@@ -1,0 +1,29 @@
+api/igdb/apicalypse/Sort.java
+ api.igdb.apicalypse.Sort
+api/igdb/request/IGDBFacade.java
+ api.igdb.request.IGDBFacade
+ api.igdb.request.IGDBFacade$1
+ api.igdb.request.IGDBFacade$2
+ api.igdb.request.IGDBFacade$3
+api/igdb/apicalypse/APICalypse.java
+ api.igdb.apicalypse.APICalypse
+api/igdb/util/ImageType.java
+ api.igdb.util.ImageType
+api/igdb/util/ImageBuilder.java
+ api.igdb.util.ImageBuilder
+api/igdb/util/Endpoints.java
+ api.igdb.util.Endpoints
+api/igdb/util/Json.java
+ api.igdb.util.Json
+api/igdb/util/ImageSize.java
+ api.igdb.util.ImageSize
+model/ScreenshotModel.java
+ model.ScreenshotModel
+model/GameModel.java
+ model.GameModel
+api/igdb/util/Endpoint.java
+ api.igdb.util.Endpoint
+exeption/RequestException.java
+ exeption.RequestException
+model/CoverModel.java
+ model.CoverModel
