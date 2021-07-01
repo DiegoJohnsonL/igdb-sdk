@@ -2,7 +2,11 @@ plugins {
     id 'java-library'
     id 'maven-publish'
 }
-
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(16)
+    }
+}
 group 'com.github.DiegoJohnsonL'
 version '1.0-SNAPSHOT'
 
