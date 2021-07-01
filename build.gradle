@@ -6,11 +6,6 @@ plugins {
 group 'com.github.DiegoJohnsonL'
 version '1.0-SNAPSHOT'
 
-java {
-    toolchain {
-        languageVersion = JavaLanguageVersion.of(16)
-    }
-}
 repositories {
     mavenCentral()
     maven { url "https://jitpack.io" }
@@ -22,15 +17,4 @@ dependencies {
 }
 test {
     useJUnitPlatform()
-}
-
-publishing {
-    publications {
-    }
-    repositories {
-        maven {
-            name = "igdb-sdk" //  optional target repository name
-            url = "https://github.com/DiegoJohnsonL/igdb-sdk"
-        }
-    }
 }
