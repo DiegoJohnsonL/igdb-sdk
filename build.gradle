@@ -6,6 +6,12 @@ plugins {
 group 'com.github.DiegoJohnsonL'
 version '1.0'
 
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(16)
+    }
+}
+
 repositories {
     mavenCentral()
     maven { url "https://jitpack.io" }
