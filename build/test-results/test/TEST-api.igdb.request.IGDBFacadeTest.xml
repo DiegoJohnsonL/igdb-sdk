@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="api.igdb.request.IGDBFacadeTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-07-01T16:29:27" hostname="DESKTOP-8AV4UDP" time="5.832">
+<testsuite name="api.igdb.request.IGDBFacadeTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-07-01T16:42:51" hostname="DESKTOP-8AV4UDP" time="4.044">
   <properties/>
-  <testcase name="testGetScreenshots()" classname="api.igdb.request.IGDBFacadeTest" time="3.069"/>
-  <testcase name="testGetGames()" classname="api.igdb.request.IGDBFacadeTest" time="1.24"/>
-  <testcase name="testImageSize()" classname="api.igdb.request.IGDBFacadeTest" time="0.008"/>
-  <testcase name="testGetCovers()" classname="api.igdb.request.IGDBFacadeTest" time="1.513"/>
+  <testcase name="testGetScreenshots()" classname="api.igdb.request.IGDBFacadeTest" time="1.687"/>
+  <testcase name="testGetGames()" classname="api.igdb.request.IGDBFacadeTest" time="0.831"/>
+  <testcase name="testImageSize()" classname="api.igdb.request.IGDBFacadeTest" time="0.006"/>
+  <testcase name="testGetCovers()" classname="api.igdb.request.IGDBFacadeTest" time="1.518"/>
   <system-out><![CDATA[//images.igdb.com/igdb/image/upload/t_thumb/sc62g1.jpg
 https://images.igdb.com/igdb/image/upload/t_720p/co1wzo.png
 ]]></system-out>
